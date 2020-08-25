@@ -1,0 +1,25 @@
+* {
+    padding:0;
+    margin:0;
+    vertical-align:baseline;
+    list-style:none;
+    border:0
+    }
+
+.background_nav {
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.nav_banner {
+    background-image: url('https://i.imgur.com/PS5bJPQ.png');
+    width: 31.25em;
+    height: 30vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
